@@ -1,6 +1,6 @@
 # The Art of Readable Code
 
-##Chapter 1. Code Should Be Easy to Understand
+## Chapter 1. Code Should Be Easy to Understand
 
 Over the past five years, we have collected hundreds of examples of “bad code” (much of it our own) and analyzed what made it worse, and what principles/techniques were used to make it better. What we noticed is that all of the principles stem from a single theme.
 
