@@ -2,6 +2,8 @@
 
 ## Chapter 1. Code Should Be Easy to Understand
 
+**_Code should be easy to understand._**
+
 Over the past five years, we have collected hundreds of examples of “bad code” (much of it our own) and analyzed what made it worse, and what principles/techniques were used to make it better. What we noticed is that all of the principles stem from a single theme.
 
 >*Trong năm năm qua, chúng tôi đã thu thập hàng trăm ví dụ về mã xấu Bad (phần lớn là của chúng tôi) và phân tích điều gì làm cho nó tồi tệ hơn, và những nguyên tắc / kỹ thuật nào được sử dụng để làm cho nó tốt hơn. Những gì chúng tôi nhận thấy là tất cả các nguyên tắc bắt nguồn từ một chủ đề duy nhất.*
